@@ -1,2 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// Напишите программу которая принимает число (А), и выдает сумму чисел от 1 до А
 Console.WriteLine("Hello, World!");
