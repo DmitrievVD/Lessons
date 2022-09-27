@@ -1,2 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// Напишите программу которая выводит массив из 8 элементов, заполненный нулями и еденицами в случайном порядке
 Console.WriteLine("Hello, World!");
