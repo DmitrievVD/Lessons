@@ -19,11 +19,6 @@ Console.Write("Введите k2: ");
 double k2 = Convert.ToDouble(Console.ReadLine());
 Console.WriteLine();
 
-// double ResultX()
-// {
-//     double result = (ResultX()-b1)/k1;
-//     return result;
-// }
 double x = (b1 - b2) / (k2 - k1);
 double y = k2 * x + b2;
 Console.Write($"({x}; {y})");
